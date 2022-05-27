@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+   <samp><br>
+   Hey there, I'm Antoine!
+   <br>
+   I'm a software developer working in c++. 
+   <br>
+   I'm mainly interested in graphics programming and game engines.
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="http://www.antoinepilote.com">website</a>
+   ·
+   <a href="https://twitter.com/antopilote">twitter</a>
+   ·
+   <a href="https://www.linkedin.com/in/antoine-pilote/">linkedin</a>
+   ~ </samp><br><br>
+   
+</p>
+</p>
