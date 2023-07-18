@@ -17,12 +17,17 @@ Here are some ideas to get you started:
 
 <p align="center">
    <samp><br>
-   Hey there, I'm Antoine!
+   Hey there, I'm <i>Antoine</i>!
    <br>
-   I'm a software developer working in c++. 
+   I'm a c++ software developer. 
    <br>
-   I'm mainly interested in graphics programming and game engines.
+   I'm mainly interested in graphics programming, game engines and realtime softwares. 
+   <br>
+   <br>
+   🔭 I’m currently working on Nuake
    </samp><br>
+   <br>
+   -----
 <p align="center"><samp> ~
    <a href="http://www.antoinepilote.com">website</a>
    ·
