@@ -24,14 +24,14 @@ Here are some ideas to get you started:
    I'm mainly interested in graphics programming, game engines and realtime softwares. 
    <br>
    <br>
-   🔭 I’m currently working on Nuake
+   🔭 I’m currently working on <a href="https://nuake.antopilo.dev">Nuake</a>
    </samp><br>
    <br>
    -----
 <p align="center"><samp> ~
    <a href="http://www.antoinepilote.com">website</a>
    ·
-   <a href="https://twitter.com/antopilote">twitter</a>
+   <a href="https://twitter.com/antopilodev">twitter</a>
    ·
    <a href="https://www.linkedin.com/in/antoine-pilote/">linkedin</a>
    ~ </samp><br><br>
